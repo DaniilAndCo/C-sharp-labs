@@ -1,0 +1,13 @@
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.csprojAssemblyReference.cache
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.AssemblyInfoInputs.cache
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.AssemblyInfo.cs
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.csproj.CoreCompileInputs.cache
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.exe
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.deps.json
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.runtimeconfig.json
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.runtimeconfig.dev.json
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.dll
+E:\Projects\C#\TETRIS\bin\Debug\netcoreapp3.1\TETRIS.pdb
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.dll
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.pdb
+E:\Projects\C#\TETRIS\obj\Debug\netcoreapp3.1\TETRIS.genruntimeconfig.cache
