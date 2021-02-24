@@ -218,7 +218,6 @@ namespace TETRIS
 
 				} while (i != ConsoleKey.Enter);
 				Choosing();
-
 				return;
 			}
 			static private void Highlight_1()
