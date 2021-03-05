@@ -2,13 +2,12 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
-namespace StrTask
+namespace rangeTask
 {
 	class Program
 	{
 		static void Main(string[] args)
-		{
-		
+		{	
 			ulong a, b, amount = 0;
 			a = ulong.Parse(Console.ReadLine());
 			b = ulong.Parse(Console.ReadLine());
