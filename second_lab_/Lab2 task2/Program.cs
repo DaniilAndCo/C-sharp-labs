@@ -1,13 +1,12 @@
 ﻿using System.Globalization;
 using System;
-namespace StrTask
+namespace MonthsTask
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.Write("Here the list of all languages you can use\n" +
-				"Enter needed language by typing the name from the list: \n");
+			Console.Write("Here the list of all languages you can use\nEnter needed language by typing the name from the list: \n");
 			foreach (CultureInfo i in CultureInfo.GetCultures(CultureTypes.NeutralCultures))
 			{
 				Console.WriteLine(i + " - " + i.EnglishName);
