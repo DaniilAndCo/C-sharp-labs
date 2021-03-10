@@ -9,7 +9,7 @@ namespace rangeTask
             Int64 a, b;
             while (!Int64.TryParse(Console.ReadLine(), out a))
             {
-				Console.WriteLine("Enter valid data!");
+		Console.WriteLine("Enter valid data!");
             }
             while (!Int64.TryParse(Console.ReadLine(), out b))
             {
